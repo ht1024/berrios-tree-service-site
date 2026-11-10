@@ -1,0 +1,6 @@
+# Supabase configuration for this project.
+
+project_id = "berrios-tree-service"
+
+[functions.submit-estimate]
+verify_jwt = false
